@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Rüya!
 
-<!--
-**ruyaazazi/ruyaazazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at Bilkent University
+💻 Currently learning Java, Data Structures & Algorithms
+🤖 Interested in AI, Robotics & Software Engineering
+🌱 Currently building my programming foundations and exploring new technologies
 
-Here are some ideas to get you started:
+🛠️ Currently Learning
+Java
+Git & GitHub
+Data Structures & Algorithms
+Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested In
+Artificial Intelligence
+Computer Vision
+Robotics
+Software Engineering
+Technology for sustainability 
