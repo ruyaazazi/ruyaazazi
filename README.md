@@ -8,13 +8,20 @@ I'm Rüya!
 
 🛠️ Currently Learning
 Java
+
 Git & GitHub
+
 Data Structures & Algorithms
+
 Object-Oriented Programming
 
 💡 Interested In
 Artificial Intelligence
+
 Computer Vision
+
 Robotics
+
 Software Engineering
+
 Technology for sustainability 
